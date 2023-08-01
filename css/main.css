@@ -86,7 +86,7 @@ img {
     width: 100%;
 
 }
-.main-nav-item {
+.main-nav-item:active {
     margin-right: 24px;
 }
 
